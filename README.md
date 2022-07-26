@@ -1,6 +1,6 @@
 # bmi calculator
 
-- use contants class for colors
+- use constants class for colors
 - use background shape left 
 - use background shape right 
 - use home screen and main class 
